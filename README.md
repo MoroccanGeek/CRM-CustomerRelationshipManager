@@ -5,8 +5,15 @@ A simple project for Spring Framework beginners, where you can Create, Read, Upd
 
 ![](index.png)
 
+## Getting Started
+
+### Prerequisites
+
+Must Install Maven, or if you're using Eclipse JEE IDE, make sure that m2e plugin is installed
+
 ## Built With
 
-* [Spring 5](https://spring.io/projects/spring-framework) - including Spring MVC, Spring Core, Spring AOP...etc
+* [Spring 5](https://spring.io/projects/spring-framework) - including Spring MVC, Spring Core, Spring AOP
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Hibernate ORM](http://hibernate.org/orm/) - Object/Relational Mapping
+* [Eclipse](https://www.eclipse.org/) - JAVA IDE
