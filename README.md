@@ -19,3 +19,4 @@ A simple project for Spring Framework beginners, where you can Create, Read, Upd
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Hibernate ORM](http://hibernate.org/orm/) - Object/Relational Mapping
 * [Eclipse](https://www.eclipse.org/) - JAVA IDE
+* [MySQL](https://www.mysql.com/) - Relational Database Management System
