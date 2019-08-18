@@ -9,7 +9,9 @@ A simple project for Spring Framework beginners, where you can Create, Read, Upd
 
 ### Prerequisites
 
-Must Install Maven, or if you're using Eclipse JEE IDE, make sure that m2e plugin is installed
+1 - Must Install Maven, or if you're using Eclipse JEE IDE, make sure that m2e plugin is installed.
+
+2 - Check SQL scripts to create the Database.
 
 ## Built With
 
